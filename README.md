@@ -1,6 +1,8 @@
 # Reading Notes
 - This **website** aim to document my notes about the ***reading assignments*** throughout this course: 
 ## Code 401 (Advanced Software Development in ASP.NET core)
+
+## [SQL Practice](SQLpractice.md)
 <br>
 
 ### Here is my picture
