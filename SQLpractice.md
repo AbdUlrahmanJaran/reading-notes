@@ -1,12 +1,12 @@
 # SQL Practice
 I learned about those concepts
-SELECT: which is used to select data from a database. The data returned is stored in a result table, called the result-set.
-WHERE: which is used to filter records. It is used to extract only those records that fulfill a specified condition.
-SELECT DISTINCT is used to return only different values from a table in the database.
-GROUP BY groups rows that have the same values into summary rows
-ORDER BY: is used to sort the result-set in ascending or descending order.
-INNER JOIN: we use it if we have two tables and it is used to select records that have matching values in both tables.
-INSERT: declares which table to write into and it worked with VALUES(Value1, Value2, ...)
+1. SELECT: which is used to select data from a database. The data returned is stored in a result table, called the result-set.
+2. WHERE: which is used to filter records. It is used to extract only those records that fulfill a specified condition.
+3. SELECT DISTINCT is used to return only different values from a table in the database.
+4. GROUP BY groups rows that have the same values into summary rows
+5. ORDER BY: is used to sort the result-set in ascending or descending order.
+6. INNER JOIN: we use it if we have two tables and it is used to select records that have matching values in both tables.
+7. INSERT: declares which table to write into and it worked with VALUES(Value1, Value2, ...)
 
 ## HERE is THE Exercises ordered ASC
 ### Exercise 1
