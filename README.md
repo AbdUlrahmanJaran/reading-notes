@@ -4,6 +4,8 @@
 
 ## [SQL Practice](SQLpractice.md)
 
+## [The Command Line](TheCommandLine.md)
+
 ## [Exception Handling](ExceptionHandling.md)
 
 ## [Unit Tests & Documentation](UnitTests&Documentation.md)
