@@ -16,6 +16,8 @@
 
 ## [Classes & Memory Management](Classes&MemoryManagement.md)
 
+## [Linked Lists](LinkedLists.md)
+
 <br>
 
 ### Here is my picture
