@@ -18,6 +18,8 @@
 
 ## [Linked Lists](LinkedLists.md)
 
+## [Object Oriented Principles](ObjectOrientedPrinciples.md)
+
 <br>
 
 ### Here is my picture
