@@ -20,6 +20,8 @@
 
 ## [Object Oriented Principles](ObjectOrientedPrinciples.md)
 
+## [Interfaces](Interfaces.md)
+
 <br>
 
 ### Here is my picture
