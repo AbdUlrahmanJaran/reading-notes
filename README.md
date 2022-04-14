@@ -36,4 +36,8 @@
 
 ## [Introduction To Databases](IntroductionToDatabases.md)
 
+## [Entity Framework and APIs](EntityFrameworkAndAPIs.md)
+
+<br>
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
