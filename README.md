@@ -42,6 +42,8 @@
 
 ## [Dependency Injection](DependencyInjection.md)
 
+## [Trees](Trees.md)
+
 <br>
 
 - This site was built using [GitHub Pages](https://pages.github.com/).
