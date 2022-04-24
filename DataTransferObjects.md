@@ -10,6 +10,6 @@ A DTO is meant to transport data from one layer of an application to another lay
 There are several ways in which you can implement immutable DTOs in C#. You could use a ReadOnlyCollection or the thread-safe immutable collection types present in the System.Collections.Immutable namespace.
 
 ## Things I want to know more about
-- DTO serialization challenges
+- DTO serialization
 
 ### Ref: [DTO](https://www.infoworld.com/article/3562271/how-to-use-data-transfer-objects-in-aspnet-core-31.html)
