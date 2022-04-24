@@ -44,6 +44,12 @@
 
 ## [Trees](Trees.md)
 
+<!-- -->
+
+<br>
+
+## [Data Transfer Objects](DataTransferObjects.md)
+
 <br>
 
 - This site was built using [GitHub Pages](https://pages.github.com/).
