@@ -27,6 +27,8 @@ Three different types of unit tests for the controllers in ASP.NET MVC applicati
 ### Test ActionResult<T>
 ActionResult<T> (ActionResult<TValue>) enables you to return a type deriving from ActionResult or return a specific type.
 
+#### Ref: [Swagger](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?tabs=visual-studio&view=aspnetcore-2.1) and [Testing](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing?view=aspnetcore-2.1).
+
 ## Things I want to know more about
 1. integration tests.
 2. Test ActionResult.
