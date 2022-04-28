@@ -52,6 +52,8 @@
 
 ## [Tetsing, Swagger & Deployments](Tetsing,Swagger&Deployments.md)
 
+## [Identity](Identity.md)
+
 <br>
 
 - This site was built using [GitHub Pages](https://pages.github.com/).
