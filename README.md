@@ -54,8 +54,10 @@
 
 ## [Identity](Identity.md)
 
+## [Claims & JWT Tokens](Claims&JWT.md)
+
 <br>
 
-## [Claims & JWT Tokens](Claims&JWT.md)
+## [Intro To MVC](MVC.md)
 
 - This site was built using [GitHub Pages](https://pages.github.com/).
