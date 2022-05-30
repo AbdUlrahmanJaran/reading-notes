@@ -60,4 +60,6 @@
 
 ## [Intro To MVC](MVC.md)
 
+## [MVC Forms](MVCForms.md)
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
