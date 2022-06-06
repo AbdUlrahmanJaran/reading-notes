@@ -66,4 +66,8 @@
 
 ## [Hash Taples](HashTaples.md)
 
+<br>
+
+## [Azure Blob storage](AzureBlobStorage.md)
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
