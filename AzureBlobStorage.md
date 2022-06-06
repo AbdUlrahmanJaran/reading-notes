@@ -22,4 +22,4 @@ A container organizes a set of blobs, similar to a directory in a file system. A
 1. Azure Storage Data Movement library.
 2. Storage accounts.
 
-### Ref: (Microsoft Blob storage Intro)[https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction]
+### Ref: [Microsoft Blob storage Intro](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
