@@ -70,4 +70,6 @@
 
 ## [Azure Blob storage](AzureBlobStorage.md)
 
+## [Razor Pages](RazorPages.md)
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
