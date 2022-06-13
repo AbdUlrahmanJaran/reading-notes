@@ -72,4 +72,6 @@
 
 ## [Razor Pages](RazorPages.md)
 
+## [View Components](ViewComponents.md)
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
