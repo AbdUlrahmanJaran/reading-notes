@@ -74,4 +74,6 @@
 
 ## [View Components](ViewComponents.md)
 
+## [Send Email Azure](SendEmailAzure.md)
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
