@@ -76,4 +76,10 @@
 
 ## [Send Email Azure](SendEmailAzure.md)
 
+<br>
+
+## [Graphs](Graphs.md)
+
+<br>
+
 - This site was built using [GitHub Pages](https://pages.github.com/).
